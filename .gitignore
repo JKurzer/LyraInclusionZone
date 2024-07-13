@@ -47,6 +47,10 @@ SourceArt/**/*.tga
 
 # Binary Files
 Binaries/*
+CommonGame/Binaries/*
+CommonLoadingScreen/Binaries/*
+CommonUser/Binaries/*
+GameplayMessageRouter/Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
@@ -68,6 +72,10 @@ Saved/*
 
 # Compiled source files for the engine to use
 Intermediate/*
+CommonGame/Intermediate/*
+CommonUser/Intermediate/*
+CommonLoadingScreen/Intermediate/*
+GameplayMessageRouter/Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
